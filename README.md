@@ -13,15 +13,22 @@
     <img src="https://img.shields.io/badge/Resume-blue?style=flat&logo=R&labelColor=gray"">
   </a>
 </p>
-<h1 align="left"> Skill </h1>      
+<h1 align="left"> Skills </h1>      
   
  <div align="left">
-  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <br>
-  <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/><br>
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><br>
-  <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/><br>
+  *HTML
+  *CSS
+  *Bootstrap
+  *JavaScript
+  * React.js
+  * Node.js
+  * MongoDB
+  * Express.js
+  * Bootstrap
+  * Firebase auth
+  * Heroku
+  * Netlify
+  * Router
 </div>
 </div>
            
