@@ -3,7 +3,7 @@
    <h1>Front End Developer</h1>
    <h2 align="center" border-labelColor=gray"> FIND ME ONLINE </h2>
    <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/sadia-sultana-1136371ba/">
+  <a target="_blank" href="https://www.linkedin.com/in/sultana-sadia/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=gray">
  </a>
   <a target="_blank" href="https://github.com/Sadia-web">
