@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Resume-blue?style=flat&logo=R&labelColor=gray"">
   </a>
 </p>
-<h1 align="left"> # Skills </h1>      
+<h1 align="left"> Skills </h1>      
   
  <div align="left">
   *HTML
